@@ -1,4 +1,4 @@
-# (二) 日常开发本人常用idea插件分享
+# <h1 id = "top">(二) 日常开发本人常用idea插件分享</h1>
 ***
 [TOC]
 **多看[官方使用文档](https://www.jetbrains.com/help/idea/creating-and-optimizing-imports.html#disable-import-popups)还是很不错的~
@@ -119,3 +119,4 @@ Alibaba Cloud Toolkit （后文简称 Cloud Toolkit）是针对 IDE 平台为开
 | activate-power-mode | 炫酷的输入效果（带震动效果）同类型的还有冒火焰的 Power Mode II |https://plugins.jetbrains.com/plugin/8330-activate-power-mode |
 |                                |                                                                                     |                                                                           |
 | Material Theme UI | Material Theme UI 是 JetBrains IDE（IntelliJ IDEA，WebStorm，Android Studio 等）的插件，可将原始外观更改为 Material Design 外观。 |https://plugins.jetbrains.com/plugin/8006-material-theme-ui
+[top](#top)
