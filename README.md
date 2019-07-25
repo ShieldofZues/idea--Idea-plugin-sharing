@@ -109,10 +109,10 @@ Alibaba Cloud Toolkit （后文简称 Cloud Toolkit）是针对 IDE 平台为开
 | iedis                          | redis客户端                                                                      | https://plugins.jetbrains.com/plugin/9228-iedis                           |
 |                                |                                                                                     |                                                                           |
 | GenerateAllSetter              | new POJO类的快速生成 set 方法                                               | https://plugins.jetbrains.com/plugin/9360-generateallsetter               |
-    |                                                                           |
-| MyBatis Log Plugin              | 将Mybatis执行的sql脚本显示出来，无需处理，可以直接复制出来执行的                                               |https://plugins.jetbrains.com/plugin/10065-mybatis-log-plugin               |
-    |                                                                           |
-| stackoverflow              | 这一看似平淡的右键stackoverflow，却把其中的闷骚体现的淋漓尽致：我就这么叼，我就不去浏览器里查，只有右键才和我的右手匹配。                                              |https://plugins.jetbrains.com/plugin/9513-stackoverflow               |
+                  |                                                                           |
+| MyBatis Log Plugin              | 将Mybatis执行的sql脚本显示出来，无需处理，可以直接复制出来执行的             |https://plugins.jetbrains.com/plugin/10065-mybatis-log-plugin              |
+                  |                                                                           |
+| stackoverflow                   | 这一看似平淡的右键stackoverflow，却把其中的闷骚体现的淋漓尽致：我就这么叼，我就不去浏览器里查，只有右键才和我的右手匹配。                                              |https://plugins.jetbrains.com/plugin/9513-stackoverflow               |
     |                                                                           |
 | Nyan progress bar              | 普通的人进度条都太普通，我的精致要装扮到每一个细节，包括进度条！                                              |https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar               |
 | 
